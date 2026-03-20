@@ -17,7 +17,7 @@ Le rapport Power BI est composé de **trois pages principales** :
 ---
 
 ## 🧾 2. Rapport du personnel
-
+![SCREENSHOOT](Rapport du personnel.PNG)
 ### 🔎 Présentation générale
 
 Ce tableau de bord, réalisé avec Power BI, permet d'analyser les ressources humaines de l'entreprise à travers plusieurs indicateurs clés tels que le nombre d'employés, la masse salariale et la répartition par département, pays et genre.
