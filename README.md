@@ -76,7 +76,7 @@ L'écart entre les salaires moyens des hommes et des femmes est faible, ce qui i
 
 **🏢 Salaires par département**
 - Le département **HR** affiche le salaire moyen le plus élevé au niveau global
-- En **Arabie Saoudite**, c'est le département **Training** qui présente les salaires les plus élevés
+- En **Arabie Saoudite**, c'est le département **Facilities/Engineering** qui présente les salaires les plus élevés (2 999 $/mois en moyenne)
 
 **📊 Relation salaire / performance par pays**
 
