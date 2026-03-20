@@ -16,7 +16,7 @@ Le rapport Power BI est composé de **trois pages principales** :
 
 ---
 
-## 🧾 1. Rapport du personnel
+## 🧾 2. Rapport du personnel
 
 ### 🔎 Présentation générale
 
@@ -56,7 +56,7 @@ Une diminution du nombre d'employés est observée entre 2019 et 2020. En l'abse
 
 ---
 
-## 🧾 2. Analyse RH & Salaires
+## 🧾 3. Analyse RH & Salaires
 
 ### 💰 Présentation générale
 
