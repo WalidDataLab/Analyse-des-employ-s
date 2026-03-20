@@ -48,6 +48,9 @@ Ces filtres permettent de :
 - Masse salariale la plus élevée
 
 > Cela en fait un marché stratégique qui peut être développé pour augmenter la production, ou optimisé pour réduire les coûts.
+![SCREENSHOOT](https://github.com/WalidDataLab/Analyse-des-employ-s/blob/main/Egypt.PNG)
+
+
 
 **🔴 Liban — Marché atypique**
 - Plus faible nombre d'employés
