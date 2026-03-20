@@ -18,7 +18,7 @@ Le rapport Power BI est composé de **trois pages principales** :
 
 ## 🧾 2. Rapport du personnel
 
-![SCREENSHOOT]([Rapportdupersonnel.PNG](https://github.com/WalidDataLab/Analyse-des-employ-s/blob/main/Rapport%20du%20personnel.PNG))
+![SCREENSHOOT](https://github.com/WalidDataLab/Analyse-des-employ-s/blob/main/Rapport%20du%20personnel.PNG)
 
 ### 🔎 Présentation générale
 
