@@ -18,7 +18,7 @@ Le rapport Power BI est composé de **trois pages principales** :
 
 ## 🧾 2. Rapport du personnel
 
-![SCREENSHOOT1](Rapport du personnel.PNG)
+![SCREENSHOOT](Rapportdupersonnel.PNG)
 
 ### 🔎 Présentation générale
 
