@@ -57,6 +57,7 @@ Ces filtres permettent de :
 - Un seul employé recensé dans le département Manufacturing
 
 > Cela suggère que l'entreprise a récemment commencé ses activités dans ce pays, ou qu'une situation particulière affecte ce marché.
+![SCREENSHOOT](lebanon.PNG)
 
 **📉 Baisse des effectifs (2019–2020)**
 
