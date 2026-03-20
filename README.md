@@ -3,7 +3,7 @@
 > **Note importante** : Les données utilisées dans ce projet sont **des données de test fictives** et ne reflètent pas une réalité organisationnelle. Elles ont été conçues uniquement à des fins d'apprentissage et d'expérimentation. Cependant, **le projet est entièrement fonctionnel** : en remplaçant le fichier source par une base de données réelle, l'ensemble du tableau de bord se met à jour automatiquement et peut être exploité immédiatement en production.
 
 ---
-![صورة توضيحية](Présentation.PNG)
+![SCREENSHOOT](Présentation.PNG)
 ## 🗂️ Structure du rapport
 
 Le rapport Power BI est composé de **trois pages principales** :
