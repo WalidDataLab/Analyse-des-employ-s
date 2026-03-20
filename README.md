@@ -66,6 +66,8 @@ Une diminution du nombre d'employés est observée entre 2019 et 2020. En l'abse
 ---
 
 ## 🧾 3. Analyse RH & Salaires
+![SCREENSHOOT](https://github.com/WalidDataLab/Analyse-des-employ-s/blob/main/Analyse%20RH%20%26%20Salaires.PNG)
+
 
 ### 💰 Présentation générale
 
